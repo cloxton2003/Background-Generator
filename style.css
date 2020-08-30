@@ -1,0 +1,29 @@
+body {
+	background: linear-gradient(to right, #ffe6e6, #ff80df);
+	text-align: center;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+.class1 {
+	align-content: center;
+}
+
+.class2 {
+	align-content: center;
+}
+
+.mybtn {
+	align-content: center;
+}
